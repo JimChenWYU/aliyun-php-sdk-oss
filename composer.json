@@ -13,6 +13,8 @@
         "php": ">=5.3"
     },
     "autoload": {
-        "JimChen\\OSS\\": "src"
+        "psr-4": {
+            "JimChen\\OSS\\": "src"
+        }
     }
 }
