@@ -1,6 +1,8 @@
 # aliyun-php-sdk-oss
 
-°¢ÀïÔÆOSS SDK
+é˜¿é‡Œäº‘ OSS SDK
+
+[æ–‡æ¡£åœ°å€](https://help.aliyun.com/document_detail/32101.html?spm=a2c4g.11186623.6.1013.310e33bcZWwypM)
 
 ## Installing
 
@@ -14,4 +16,4 @@ TODO
 
 ## License
 
-Apache License 2.0
+MIT
