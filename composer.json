@@ -1,0 +1,18 @@
+{
+    "name": "jimchen/aliyun-php-sdk-oss",
+    "description": "aliyun oss sdk",
+    "type": "library",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "JimChen",
+            "email": "imjimchen@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "JimChen\\OSS\\": "src"
+    }
+}
